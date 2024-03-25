@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA8H5lSL2kUtNlai_gg6Y0p8fP0Rsh93m4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>336734879425</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.boatRentApp</string>
+	<key>PROJECT_ID</key>
+	<string>boat-rent-app-6b95a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boat-rent-app-6b95a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:336734879425:ios:a8a52a62134e34bd2e9e40</string>
+</dict>
+</plist>

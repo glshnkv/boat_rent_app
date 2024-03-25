@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336734879425",
+    "project_id": "boat-rent-app-6b95a",
+    "storage_bucket": "boat-rent-app-6b95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336734879425:android:c898e915a4c926b02e9e40",
+        "android_client_info": {
+          "package_name": "com.example.boat_rent_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGHJcu0ULdQgKYcwWHBz9CXFx14yTnlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
