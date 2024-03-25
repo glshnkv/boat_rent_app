@@ -45,7 +45,10 @@ flutter:
 
   assets:
      - assets/images/
-
+     - assets/images/elements/
+     - assets/images/transport-info/
+     - assets/images/settings/
+     - assets/images/news/
 
   fonts:
     - family: SF Pro Display
